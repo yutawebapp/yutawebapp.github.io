@@ -12,6 +12,6 @@
 
 『やりたい事をやる』シンプルだが、これが幸せに効果的に働くための基本
 
-### Support or Contact
+### [プログラミング](https://yutawebapp.github.io/program/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+プログラムのメモ帳
