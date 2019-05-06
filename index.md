@@ -1,36 +1,16 @@
-## Welcome to GitHub Pages
+## 人生と仕事の境界線へようこそ！
 
-You can use the [editor on GitHub](https://github.com/yutawebapp/yutawebapp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+人生と仕事の境界線（価値観）に迷った時に見ていただけたら嬉しく思うサイトです。
+人生と仕事について自分の中にある価値観を１度は考えたことはないでしょうか？
+このような考え方もあるんだなと見ていただけたら幸いです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [人生]
 
-### Markdown
+「生きてる意味は幸せになることだ」　アリストテレス（哲学者）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [仕事]
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yutawebapp/yutawebapp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+『やりたい事をやる』シンプルだが、これが幸せに効果的に働くための基本
 
 ### Support or Contact
 
