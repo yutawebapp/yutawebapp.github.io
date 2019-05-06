@@ -14,4 +14,4 @@
 
 ### [プログラミング](https://yutawebapp.github.io/program/)
 
-プログラムのメモ帳
+個人的なプログラムのメモ帳
